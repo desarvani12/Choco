@@ -1,1 +1,1 @@
-# Choco
+# Sample node js application
